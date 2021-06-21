@@ -1,2 +1,2 @@
-# Lane_Emden
-Jupyter Notebook that shows the solutions to the Lane-Emden equation for integer indices 0 to 5
+# Polytropic Equation of state
+Welcome weary travelers! If you managed to find your way here, you have either begun your journey into stellar structure, or an old veteran looking for a refresher! This notebook is designed to illustrate stellar structure while using a polytropic equation of state. To launch the notebook in google colab, simply click [![here](https://colab.research.google.com/assets/colab-badge.svg)]
